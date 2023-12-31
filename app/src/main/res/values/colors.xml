@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dateColor">#46595A</color>
+    <color name="color1"> 	#67f2d1</color>
+    <color name="color2">#7CEC9F</color>
+    <color name="color3">#A2E6EF</color>
+    <color name="color4">#EC6969</color>
+    <color name="color5">#EF8B96</color>
+    <color name="color6">#67FBC7</color>
+
+    <color name="background_color">#CBECAF</color>
+    <color name="note_background_color">#A2E6EF</color>
+    <color name="search_bar_color">#EAF5E1</color>
+    <color name="add_notes_button_color">#B8ED8C</color>
+    <color name="colorPrimaryDark">#AFED79</color>
+</resources>
